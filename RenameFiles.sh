@@ -4,7 +4,7 @@
 #example: ./RenamePics.sh beach jpg
 
 a=1;
-for pics in *.$2 ; do 
-  mv "$pics" "$1$a.$2";
+for b in *.$2 ; do 
+  mv "$b" "$1$a.$2";
 	a=$((a+1))
 done
