@@ -1,6 +1,6 @@
 #!/bin/bash
 #This script standarize names of multiple files
-#use: ./RenamePics.sh name file-extention
+#use: ./RenamePics.sh name file-file-extension
 #example: ./RenamePics.sh beach jpg
 
 a=1;
